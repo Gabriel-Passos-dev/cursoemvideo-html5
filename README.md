@@ -41,3 +41,13 @@ Num | Nome | Nota
 1 | Gustavo | 8,5
 2 | José | 10,0
 3 | Maria | 9,0
+
+Não entendo o comando `.getElementById()` do Javascript
+
+```
+num = int(input('Digite um valor: '))
+if num % 2 == 0:
+   print('O valor {num} é par')
+else
+   print('O valor {num} é ímpar')
+```
