@@ -3,3 +3,4 @@
  Aprendendo Linguagem MarkDown
  
  Negrito: **Frase em negrito**
+ Itálico: *Frase em itálico*
