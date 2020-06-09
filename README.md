@@ -20,14 +20,14 @@ __*Negrito e Itálico*__
    1. Teste 5
 1. Teste 4
 
-**Lista Demarcada
+**Lista Demarcada**
 
 * Teste
 * Teste
    * Teste
 * Teste
 
-**Lista de Tarefas
+**Lista de Tarefas**
 
 - [x] Estudar POO
 - [] Criar página da loja
