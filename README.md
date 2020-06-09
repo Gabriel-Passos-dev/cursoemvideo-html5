@@ -33,3 +33,11 @@ __*Negrito e Itálico*__
 - [] Criar página da loja
 - [] Estudar Python
 - [x] Jogar
+
+
+**Tabela**
+Num | Nome | Nota
+---|---|---
+1 | Gustavo | 8,5
+2 | José | 10,0
+3 | Maria | 9,0
